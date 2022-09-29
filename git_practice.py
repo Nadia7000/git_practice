@@ -8,3 +8,7 @@ def prod(x, y):
 
 def subtract(x, y):
     return x - y
+
+
+def remain(x, y):
+    return x % y
